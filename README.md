@@ -1,10 +1,28 @@
 # News Trends using BERTopic
 
-**Reference:**
-
 ## Finding a source of news (API)
 
-https://newsapi.org/
+### NewsCatcher
 
-Python API: https://newsapi.org/docs/client-libraries/python
 
+https://docs.newscatcherapi.com/
+
+Python API: https://docs.newscatcherapi.com/knowledge-base/guides-and-tutorials/export-news-into-a-csv-with-python
+
+
+
+# Use BERTopic to generate themes, topics, and trends over time
+
+![Similarity Matrix](images/topic_word_scores.png)
+
+---
+
+![Similarity Matrix](images/similarity_matrix.png)
+
+---
+
+![Similarity Matrix](images/topics_over_time.png)
+
+---
+
+![Similarity Matrix](images/topics_over_time_cumulative.png)
